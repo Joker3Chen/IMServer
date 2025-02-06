@@ -1,2 +1,2 @@
-# IMServer
-IM server
+# StockPro
+低频量化交易研究
